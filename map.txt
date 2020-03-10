@@ -1,0 +1,6 @@
+Trello Api App
+
+1) pull in trello boards & store
+2) list the cards on a given board & store
+3) list items on the card & store
+4) create cards & items
